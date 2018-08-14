@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Legal Pages-clone",
+    "name": "Legal Pages-clone-clone-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -36,8 +36,12 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.2",
-    "uniqCompNum": 10,
-    "versionPublish": "4.7.2"
+    "uniqCompNum": 21,
+    "versionPublish": "4.7.2",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
